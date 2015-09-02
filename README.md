@@ -1,4 +1,7 @@
-# javascript
-原生JavaScript 功能代码
-- **task1**
-  -  [控制div属性](http://jstask.sinaapp.com/lesson1/01.html)
+# javascript实例
+-  **task1**
+  -  [控制div属性](http://jstask.sinaapp.com/task1/01.html)
+  -  [函数接收参数并弹出](http://jstask.sinaapp.com/task1/03.html)
+  
+- **other**
+  -  [checkbox选择-反选-不选](http://jstask.sinaapp.com/other/checkbox.html)
