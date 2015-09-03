@@ -7,12 +7,16 @@
 - [JavaScript运算符](http://jstask.sinaapp.com/map/operator.html)
 - [JavaScript正则表达式](http://jstask.sinaapp.com/map/regular.html)
 - [JavaScript字符串函数](http://jstask.sinaapp.com/map/string.html)
+        
+- [HTML/CSS/JS-MAP](http://jstask.sinaapp.com/map/web.html)
 
 ## JavaScript 原生实例
 -  **task1**
   -  [控制div属性](http://jstask.sinaapp.com/task1/01.html)
   -  [函数接收参数并弹出](http://jstask.sinaapp.com/task1/03.html)
   -  [用循环将三个Div变成绿色](http://jstask.sinaapp.com/task1/04.html)
+  -  [鼠标移入/移出改变样式](http://jstask.sinaapp.com/task1/05.html)
+  -  [记住密码提示框](http://jstask.sinaapp.com/task1/06.html)
   
 - **other**
   -  [checkbox选择-反选-不选](http://jstask.sinaapp.com/other/checkbox.html)
