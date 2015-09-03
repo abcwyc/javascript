@@ -7,6 +7,8 @@
 - [JavaScript运算符](http://jstask.sinaapp.com/map/operator.html)
 - [JavaScript正则表达式](http://jstask.sinaapp.com/map/regular.html)
 - [JavaScript字符串函数](http://jstask.sinaapp.com/map/string.html)
+- [JavaScript数据类型](http://jstask.sinaapp.com/map/shuju.html)
+- [window对象](http://jstask.sinaapp.com/map/window.html)
 - [HTML/CSS/JS-MAP](http://jstask.sinaapp.com/map/web.html)
 
 ## JavaScript 原生实例
