@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>用循环将三个Div变成绿色</title>
+	<style>
+		button{display: block; margin: 0 auto;}
+		#outer{width: 330px;height: 100px; margin: 10px auto;}
+		#outer div{float: left; width: 100px; height: 100px; margin: 0 5px; background: black;}
+	</style>
+	<script>
+		window.onload=function()
+		{
+			var oDiv = document.getElementById('outer').getElementsByTagName('div');
+			var oBtn = document.getElementsByTagName('button')[0];
+
+			oBtn.onclick=function()
+			{
+				for(var i=0; i<oDiv.length; i++)
+				{
+					oDiv[i].style.background="green";
+				}
+			}
+		}
+	</script>
+</head>
+<body>
+	<button>点击将Div变成绿色</button>
+	<div id="outer">
+		<div></div>
+		<div></div>
+		<div></div>
+	</div>
+</body>
+</html>
