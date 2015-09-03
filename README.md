@@ -5,3 +5,4 @@
   
 - **other**
   -  [checkbox选择-反选-不选](http://jstask.sinaapp.com/other/checkbox.html)
+  -  [创建li列表](http://jstask.sinaapp.com/other/create_li.html)
