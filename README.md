@@ -25,4 +25,5 @@
   -  [checkbox选择-反选-不选](http://jstask.sinaapp.com/other/checkbox.html)
   -  [创建li列表](http://jstask.sinaapp.com/other/create_li.html)
   -  [显示当前时间](http://jstask.sinaapp.com/other/setTime.html)
+  -  [计时器](http://jstask.sinaapp.com/other/timer.html)
 
