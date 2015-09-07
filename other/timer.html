@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>计时器</title>
+</head>
+<script>
+	var num=0;
+	var i;
+	function startCount(){
+		document.getElementById('count').value=num;
+		num++;
+		i=setTimeout("startCount()",1000);
+	}
+	function stopCount(){
+		clearTimeout(i);
+	}
+</script>
+<body>
+	<form action="">
+		<input type="text" id="count">
+		<input type="button" value="Start" onclick="startCount()">
+		<input type="button" value="Stop" onclick="stopCount()">
+	</form>
+</body>
+</html>
