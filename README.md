@@ -20,6 +20,7 @@
   -  [记住密码提示框](http://jstask.sinaapp.com/task1/06.html)
 -  **task2**
   -  [下拉菜单](http://jstask.sinaapp.com/task2/01.html)
+  -  [点击Div，显示其innerHTM](http://jstask.sinaapp.com/task2/02.html)
 
 - **other**
   -  [checkbox选择-反选-不选](http://jstask.sinaapp.com/other/checkbox.html)
