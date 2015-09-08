@@ -22,6 +22,7 @@
   -  [下拉菜单](http://jstask.sinaapp.com/task2/01.html)
   -  [点击Div，显示其innerHTM](http://jstask.sinaapp.com/task2/02.html)
   -  [求出数组中所有数字的和](http://jstask.sinaapp.com/task2/03.html)
+  -  [弹出层效果](http://jstask.sinaapp.com/task2/04.html)
 
 - **other**
   -  [checkbox选择-反选-不选](http://jstask.sinaapp.com/other/checkbox.html)
