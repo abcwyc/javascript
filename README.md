@@ -23,6 +23,9 @@
   -  [点击Div，显示其innerHTM](http://jstask.sinaapp.com/task2/02.html)
   -  [求出数组中所有数字的和](http://jstask.sinaapp.com/task2/03.html)
   -  [弹出层效果](http://jstask.sinaapp.com/task2/04.html)
+  -  [函数传参，改变Div任意属性值](http://jstask.sinaapp.com/task2/05.html)
+  -  [图片列表：鼠标移入移除改变图片透明度](http://jstask.sinaapp.com/task2/06.html)
+  -  [简易选项卡](http://jstask.sinaapp.com/task2/07.html)
 
 - **other**
   -  [checkbox选择-反选-不选](http://jstask.sinaapp.com/other/checkbox.html)
