@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>单一按钮显示/隐藏</title>
+	<style>
+		body,div,ul,li,h2{margin: 0; padding: 0;}
+		body{font: 12px/1.5 Tahoma;}
+		ul{list-style-type: none;}
+		#outer{width: 200px; border: 1px solid #aaa; margin: 10px auto;}
+		#outer h2{cursor:pointer;color:#57646E;font-size:14px;font-weight:400;border:1px solid;height:30px;line-height:30px;padding-left:10px;background:#ced3d7 url(img/ico.gif) 180px 15px no-repeat;border-color:#fff #e9edf2;}
+		#outer h2.open{background-position: 180px -12px;}
+		#outer ul{border-top: 1px solid #DEE3E6;}
+		#outer li{height: 25px;line-height: 25px; vertical-align: top;}
+		#outer a{display: block; color: #6b7980; background: #e9edf2; text-decoration: none; padding:0 auto;}
+		#outer a:hover{background:#fff; text-decoration: underline;}
+
+	</style>
+	<script>
+	window.onload=function()
+	{
+		var oH2=document.getElementsByTagName('h2')[0];
+		var oUl=document.getElementsByTagName('ul')[0];
+		oH2.onclick=function()
+		{
+			oUl.style.display=oUl.style.display=="none"?"block":"none";
+			oH2.className=oUl.style.display=="none"?"open":"";
+
+		}
+	}
+	</script>
+</head>
+<body>
+	<div id="outer">
+		<h2>播放列表……</h2>
+		<ul>
+			<li><a href="javscript:;">歌曲1</a></li>
+			<li><a href="javscript:;">歌曲2</a></li>
+			<li><a href="javscript:;">歌曲3</a></li>
+			<li><a href="javscript:;">歌曲4</a></li>
+			<li><a href="javscript:;">歌曲5</a></li>
+			<li><a href="javscript:;">歌曲6</a></li>
+		</ul>
+	</div>
+</body>
+</html>
